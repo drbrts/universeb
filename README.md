@@ -1,5 +1,5 @@
-universeb
-=========
+Universe B
+==========
 
 Universe B is an express middle-ware for managing [Mongoose](http://mongoosejs.com/) Schemas.
 
